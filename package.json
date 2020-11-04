@@ -1,6 +1,6 @@
 {
-  "name": "web-components",
-  "version": "1.0.0",
+  "name": "capita-web-components",
+  "version": "1.0.2",
   "description": "UI elements library based on web components",
   "main": "index.js",
   "scripts": {
@@ -43,6 +43,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yonatankra/web-components.git"
+    "url": "https://github.com/akshayladha/Capita.WebComponent.Library.git"
   }
 }

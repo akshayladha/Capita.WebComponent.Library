@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [web-components-ui-elements](#web-components-ui-elements)
+- [capita-web-components](#capita-web-components)
   - [Installation](#installation)
   - [Usage](#usage)
   - [API](#api)
@@ -17,16 +17,16 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# web-components-ui-elements
+# capita-web-components
 A web components UI library.
 
 ## Installation
-`npm install web-components-ui-elements`
+`npm install capita-web-components`
 
 ## Usage
 You can require the whole library:
 
-`import * from web-components-ui-elements;`
+`import * from capita-web-components;`
 
 And use in the DOM like this:
 
